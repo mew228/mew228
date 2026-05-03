@@ -14,7 +14,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-srimaharshinath%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srimaharshinath@gmail.com)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/mew228/mew228/blob/main/MaharshiNathResume.pdf)
 
 </div>
 
