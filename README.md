@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Maharshi%20Nath&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<!-- ANIMATED CYBERPUNK BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a2e,60:0d0d3b,100:000000&height=220&section=header&text=MAHARSHI%20NATH&fontSize=65&fontColor=00fff2&fontAlignY=40&stroke=00fff2&strokeWidth=2&desc=◈%20DATA%20ENGINEER%20◈%20AI%20BUILDER%20◈%20FULL-STACK%20DEV%20◈&descSize=15&descAlignY=62&descColor=bc13fe&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=600&lines=_+initializing+profile...;_+loading+data+pipelines...;_+compiling+projects...;_+connection+established+%E2%9C%94" alt="Typing SVG" />
 
 </div>
 
@@ -8,115 +12,111 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maharshi%20Nath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maharshi-nath-a63a36397/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-mew228-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mew228)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-srimaharshinath%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srimaharshinath@gmail.com)
-&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/mew228/mew228/blob/main/MaharshiNathResume.pdf)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Maharshi_Nath-00fff2?style=for-the-badge&labelColor=0a0a2e&color=00fff2&logoColor=00fff2&logo=linkedin)](https://www.linkedin.com/in/maharshi-nath-a63a36397/)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-mew228-bc13fe?style=for-the-badge&labelColor=0a0a2e&color=bc13fe&logoColor=bc13fe&logo=github)](https://github.com/mew228)
+[![Email](https://img.shields.io/badge/◈_MAIL-CONNECT-ff2d78?style=for-the-badge&labelColor=0a0a2e&color=ff2d78&logo=gmail&logoColor=ff2d78)](mailto:srimaharshinath@gmail.com)
+[![Resume](https://img.shields.io/badge/◈_RESUME-DOWNLOAD-39ff14?style=for-the-badge&labelColor=0a0a2e&color=39ff14&logo=googledrive&logoColor=39ff14)](https://github.com/mew228/mew228/raw/main/MaharshiNathResume.pdf)
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
-
-```python
-maharshi = {
-    "role"       : "Data Engineer & Full-Stack Developer",
-    "education"  : "B.Tech CSE (AI/ML) @ VIT Bhopal  |  CGPA: 8.1",
-    "location"   : "Bhopal, Madhya Pradesh 🇮🇳",
-    "currently"  : ["Building AI-powered data tools", "Exploring agentic workflows", "Open to opportunities"],
-    "interests"  : ["Data Engineering", "Generative AI", "Financial Tech", "Full-Stack Dev"],
-    "ask_me_about": ["Python", "SQL", "Power BI", "React", "RAG pipelines"]
-}
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  > SYSTEM BOOT                                                       ║
+║  > USER     ::  Maharshi Nath                                        ║
+║  > ROLE     ::  Data Engineer & Full-Stack Builder                   ║
+║  > BASE     ::  Bhopal, Madhya Pradesh 🇮🇳                           ║
+║  > DEGREE   ::  B.Tech CSE (AI/ML) @ VIT Bhopal  |  GPA: 8.1       ║
+║  > STATUS   ::  [ ■■■■■■■■░░ ] Building...                          ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `< TECH_STACK />`
 
 <div align="center">
 
-**Languages & Querying**
+![Python](https://img.shields.io/badge/PYTHON-0a0a2e?style=flat-square&logo=python&logoColor=00fff2)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0a2e?style=flat-square&logo=typescript&logoColor=00fff2)
+![SQL](https://img.shields.io/badge/SQL-0a0a2e?style=flat-square&logo=postgresql&logoColor=00fff2)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0a0a2e?style=flat-square&logo=javascript&logoColor=00fff2)
+![Java](https://img.shields.io/badge/JAVA-0a0a2e?style=flat-square&logo=openjdk&logoColor=00fff2)
+![OCaml](https://img.shields.io/badge/OCAML-0a0a2e?style=flat-square&logo=ocaml&logoColor=00fff2)
+![R](https://img.shields.io/badge/R-0a0a2e?style=flat-square&logo=r&logoColor=00fff2)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![React](https://img.shields.io/badge/REACT-0a0a2e?style=flat-square&logo=react&logoColor=bc13fe)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-0a0a2e?style=flat-square&logo=springboot&logoColor=bc13fe)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0a0a2e?style=flat-square&logo=tailwindcss&logoColor=bc13fe)
+![Docker](https://img.shields.io/badge/DOCKER-0a0a2e?style=flat-square&logo=docker&logoColor=bc13fe)
+![Supabase](https://img.shields.io/badge/SUPABASE-0a0a2e?style=flat-square&logo=supabase&logoColor=bc13fe)
+![Vercel](https://img.shields.io/badge/VERCEL-0a0a2e?style=flat-square&logo=vercel&logoColor=bc13fe)
 
-**Data & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Infrastructure**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-0a0a2e?style=flat-square&logo=powerbi&logoColor=ff2d78)
+![Tableau](https://img.shields.io/badge/TABLEAU-0a0a2e?style=flat-square&logo=tableau&logoColor=ff2d78)
+![Pandas](https://img.shields.io/badge/PANDAS-0a0a2e?style=flat-square&logo=pandas&logoColor=ff2d78)
+![Excel](https://img.shields.io/badge/EXCEL-0a0a2e?style=flat-square&logo=microsoftexcel&logoColor=ff2d78)
+![Gemini API](https://img.shields.io/badge/GEMINI_API-0a0a2e?style=flat-square&logo=google&logoColor=ff2d78)
+![Google Cloud](https://img.shields.io/badge/GCP-0a0a2e?style=flat-square&logo=googlecloud&logoColor=ff2d78)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `< PROJECTS />`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 ByteScan — Universal Data Analyzer
-**React · TypeScript · Gemini API · Tailwind CSS**
+### ⬡ `ByteScan` — Universal Data Analyzer
+```yaml
+stack: React · TypeScript · Gemini API · Tailwind
+type:  AI / Agentic Tool
+```
+Multi-agent AI tool with a **4-stage agentic pipeline** — transforms documents, logs & raw data into executive summaries. Multi-modal ingestion, Google Search Grounding, built-in RAG chat assistant.
 
-Multi-agent AI tool that transforms documents, logs, and raw data into executive summaries via a **4-stage agentic pipeline**. Features multi-modal ingestion, Google Search Grounding, and an interactive RAG chat assistant.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mew228)
+[![code](https://img.shields.io/badge/◈_VIEW_REPO-0a0a2e?style=flat-square&logo=github&logoColor=00fff2)](https://github.com/mew228)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 SEND — Financial Strategy Platform
-**React · Java Spring Boot · OCaml · Supabase · Docker**
+### ⬡ `SEND` — Financial Strategy Platform
+```yaml
+stack: React · Java Spring Boot · OCaml · Supabase
+type:  Full-Stack · FinTech · Live
+```
+Node-based **visual trading strategy editor** + high-performance **OCaml backtesting engine** against real US market data. Auth, replay tooling, Docker Compose — live in prod.
 
-Full-stack financial education platform with a **node-based visual strategy editor** for building trading algorithms. Powered by a high-performance OCaml backtesting engine against real US market data.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://sendsys.io)
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mew228/SEND)
+[![live](https://img.shields.io/badge/◈_LIVE_DEMO-0a0a2e?style=flat-square&logo=vercel&logoColor=bc13fe)](https://sendsys.io)
+[![code](https://img.shields.io/badge/◈_VIEW_REPO-0a0a2e?style=flat-square&logo=github&logoColor=bc13fe)](https://github.com/mew228/SEND)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📉 Customer Churn Analysis
-**Python · Pandas · Matplotlib · Seaborn**
+### ⬡ `Sasyam` — AgriAI Intelligence App
+```yaml
+stack: Python · Gemini 2.0 Flash · FastAPI · Firebase
+type:  Hackathon · AI · 24hr Build
+```
+AI-powered agricultural platform built under a **24-hour hackathon deadline** — RAG crop assistant, MobileNetV2 crop classifier, smart suggestor, interactive dashboard with Leaflet maps.
 
-EDA project analyzing **7,043 telecom customers** to uncover churn patterns. Produced 11 visualizations revealing that 38% of churned users held short-tenure monthly contracts.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mew228)
+[![code](https://img.shields.io/badge/◈_VIEW_REPO-0a0a2e?style=flat-square&logo=github&logoColor=ff2d78)](https://github.com/mew228)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌿 NeuroLeaf — Mental Wellness Platform
-**TypeScript · React · REST APIs**
+### ⬡ `NeuroLeaf` — Mental Wellness Platform
+```yaml
+stack: TypeScript · React · REST APIs
+type:  Full-Stack · Health Tech
+```
+Full-stack mental wellness app with personalized mood tracking, evidence-based self-care tools, and mindfulness resources — modular TypeScript architecture built to scale.
 
-A full-stack mental wellness application offering personalized mood tracking, evidence-based self-care tools, and mindfulness resources — built with modular, scalable TypeScript architecture.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mew228/NeuroLeaf)
+[![code](https://img.shields.io/badge/◈_VIEW_REPO-0a0a2e?style=flat-square&logo=github&logoColor=39ff14)](https://github.com/mew228/NeuroLeaf)
 
 </td>
 </tr>
@@ -124,43 +124,54 @@ A full-stack mental wellness application offering personalized mood tracking, ev
 
 ---
 
-## 📊 GitHub Stats
+## `< STATS />`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mew228&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a0aec0&icon_color=58a6ff&bg_color=0d1117&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mew228&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=a0aec0&bg_color=0d1117&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mew228&show_icons=true&theme=radical&hide_border=true&title_color=00fff2&text_color=c9d1d9&icon_color=bc13fe&bg_color=0d0d0d&count_private=true&ring_color=ff2d78" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mew228&layout=compact&theme=radical&hide_border=true&title_color=00fff2&text_color=c9d1d9&bg_color=0d0d0d&langs_count=6" height="160"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mew228&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mew228&theme=radical&hide_border=true&background=0D0D0D&ring=00fff2&fire=ff2d78&currStreakLabel=00fff2&sideLabels=bc13fe&dates=666666&stroke=0d0d0d" height="160"/>
 
 </div>
 
 ---
 
-## 🏆 Certifications
+## `< ACTIVITY />`
 
-| Certification | Issuer | Year |
-|---|---|---|
-| 🎓 Google Advanced Data Analytics | Google / Coursera | 2026 |
-| ☁️ NPTEL Cloud Computing | NPTEL | 2025 |
-| 🤖 Certificate Course in AI | NIELIT | 2025 |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mew228&bg_color=0d0d0d&color=00fff2&line=bc13fe&point=ff2d78&area=true&area_color=bc13fe&hide_border=true&custom_title=◈%20CONTRIBUTION%20GRID" width="100%"/>
+
+</div>
 
 ---
 
-## 💼 Experience
+## `< CERTIFICATIONS />`
 
-**Data Analyst Intern** @ Dataview Analytics *(Apr – Jun 2025)*
-- Processed **1,00,000+ rows** of multi-region data for weekly KPI tracking
-- Built Excel templates cutting reporting time by **40%** across 4 departments
-- Developed Power BI dashboards used by managers and analysts across business units
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [✔]  Google Advanced Data Analytics Certificate    2026        │
+│        SQL · Data Cleaning · Dashboards · Presentations          │
+│                                                                  │
+│  [✔]  NPTEL Cloud Computing                         2025        │
+│        8 Case Studies · Practical Cloud Deployment               │
+│                                                                  │
+│  [✔]  Certificate Course in AI — NIELIT             2025        │
+│        Artificial Intelligence Fundamentals                      │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=a0aec0&fontAlignY=65&animation=fadeIn" width="100%"/>
+*`◈ open to data engineering roles · AI projects · hackathons ◈`*
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a2e,100:0d0d0d&height=120&section=footer&text=_+%2F%2F+end+of+file&fontSize=18&fontColor=bc13fe&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
+
