@@ -26,9 +26,9 @@
 ║  > SYSTEM BOOT                                                       ║
 ║  > USER     ::  Maharshi Nath                                        ║
 ║  > ROLE     ::  Data Engineer & Full-Stack Builder                   ║
-║  > BASE     ::  Bhopal, Madhya Pradesh 🇮🇳                           ║
-║  > DEGREE   ::  B.Tech CSE (AI/ML) @ VIT Bhopal  |  GPA: 8.1       ║
-║  > STATUS   ::  [ ■■■■■■■■░░ ] Building...                          ║
+║  > BASE     ::  Bhopal, Madhya Pradesh 🇮🇳                            ║
+║  > DEGREE   ::  B.Tech CSE (AI/ML) @ VIT Bhopal  |  GPA: 8.2         ║
+║  > STATUS   ::  Currently Intern at NIC MeiTY                        ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
